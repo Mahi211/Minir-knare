@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Miniräknare;
+﻿using Miniräknare;
 using System.ComponentModel.Design;
 
 Console.WriteLine("Välkommen till miniräknaren. Tryck vart som helst för att börja");
